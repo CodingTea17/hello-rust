@@ -1,4 +1,4 @@
-Hello, Rust! ⚙️
+# Hello, Rust! ⚙️
 
 ## SETUP
 1) rustc main.rs
